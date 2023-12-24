@@ -6,6 +6,8 @@ The notebooks use "facebook/wav2vec2-lv-60-espeak-cv-ft" in the parameters of 'm
 following the mentorship from https://github.com/raghebalghezi/MultilingPhonemeRecognition.git
 
 Professor: Mikko Kurimo
+
 Tutor: Ragheb Al-Ghezi
+
 Team partner: Bijoy Mehedi Hasan, de la Brassinne Maxence
 
